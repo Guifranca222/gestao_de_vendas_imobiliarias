@@ -1,10 +1,15 @@
 # Integrantes do grupo:
 
 Ester Pereira Sousa
+
 Mateus Alves Gouveia
+
 Leticia Medina
+
 Guilherme França Alves
+
 Gustavo Figueiredo Soares
+
 Bruno Leonardo Silveira
 
 # Leitor de Mensagens do WhatsApp
