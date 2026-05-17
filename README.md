@@ -2,7 +2,7 @@
 
 Ester Pereira Sousa
 
-Mateus Alves Gouveia
+Mateus Alves Gouveia https://github.com/MateusDB
 
 Leticia Medina
 
@@ -10,7 +10,7 @@ Guilherme França Alves https://github.com/Guifranca222
 
 Gustavo Figueiredo Soares https://github.com/gustavofigueired07
 
-Bruno Leonardo Silveira
+Bruno Leonardo Silveira https://github.com/silveiro21/gestao-vendas-imobiliarias
 
 # Leitor de Mensagens do WhatsApp
 
