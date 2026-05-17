@@ -6,9 +6,9 @@ Mateus Alves Gouveia
 
 Leticia Medina
 
-Guilherme França Alves
+Guilherme França Alves https://github.com/Guifranca222
 
-Gustavo Figueiredo Soares
+Gustavo Figueiredo Soares https://github.com/gustavofigueired07
 
 Bruno Leonardo Silveira
 
